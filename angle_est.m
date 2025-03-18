@@ -1,4 +1,4 @@
-
+%this is a matlab code that was used to initially check the samples in order to show some results, due to time limitation. 
 
 estimateMaxAngleAndFrequency('audio1.wav', 180)
 estimateMaxAngleAndFrequency('audio2.wav', 180)
